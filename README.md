@@ -1,7 +1,8 @@
 <!-- ### Hi there 👋 -->
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Hi%20there&fontSize=90)
+<div align="center">
 
-# My Skills 🔥
+ # Skills 🔥
 
 ## Platforms & Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -18,6 +19,7 @@
 # BOJ Rating
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=johan1103)](https://solved.ac/johan1103)
+   </div>
 <!--
 **johan1103/johan1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
