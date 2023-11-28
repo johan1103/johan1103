@@ -22,6 +22,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+
+# 💻 Resume
+[Link 🌏](https://drive.google.com/file/d/1uUZPwhdFN9biQlazzkPsLw3UC2nVXHeE/view?usp=sharing)
+
 # :trophy: BOJ Rating
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=johan1103)](https://solved.ac/johan1103)
@@ -29,8 +33,6 @@
 <!--
 **johan1103/johan1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
- # 💻 Resume
- [포트폴리오](https://drive.google.com/file/d/1uUZPwhdFN9biQlazzkPsLw3UC2nVXHeE/view?usp=sharing)
 
 Here are some ideas to get you started:
 
