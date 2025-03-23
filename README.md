@@ -24,7 +24,7 @@
 
 
 # 💻 Resume
-[Link 🌏](https://drive.google.com/file/d/1ePJFTSAm-vmK3uW2WTX7U3joppL3qXyN/view?usp=sharing)
+[Link 🌏](https://drive.google.com/file/d/1RbgjFCwHbPiE0hV_IYl4GUGl95hYCY-Q/view?usp=sharing)
 
 # :trophy: BOJ Rating
 [![Solved.ac
